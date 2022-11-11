@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PT Grupoasesores</string>
+    <string name="title_activity_main">Productos</string>
+    <string name="no_products_available">No hay productos disponibles.</string>
+    <string name="search_product_hint">Search Products</string>
+    <string name="product_image">Product image</string>
+</resources>
